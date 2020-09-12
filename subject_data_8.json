@@ -1,0 +1,32 @@
+{
+  "sub1": {
+    "scode": [ "15CS81" ],
+    "credits": 4,
+    "total marks": 100
+  },
+  "sub2": {
+    "scode": [ "15CS82" ],
+    "credits": 4,
+    "total marks": 100
+  },
+  "sub3": {
+    "scode": [ "15CS834", "15CS832" ],
+    "credits": 3,
+    "total marks": 100
+  },
+  "sub4": {
+    "scode": [ "15CS84" ],
+    "credits": 2,
+    "total marks": 100
+  },
+  "sub5": {
+    "scode": [ "15CSP85" ],
+    "credits": 6,
+    "total marks": 200
+  },
+  "sub6": {
+    "scode": [ "15CSS86" ],
+    "credits": 1,
+    "total marks": 100
+  }
+}
